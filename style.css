@@ -7,3 +7,7 @@ p {
   font-size: 1em;
   font-family: 'EB Garamond', serif;
 }
+
+#header {
+  border: 40px;
+}
